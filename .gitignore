@@ -1,8 +1,12 @@
 train/
-test/
+test/image
+test/mask
+test/heatMap
 root.zip
 keypoint.zip
 mask.zip
 
 *.docx
+
+
 
