@@ -1,0 +1,8 @@
+train/
+test/
+root.zip
+keypoint.zip
+mask.zip
+
+*.docx
+
