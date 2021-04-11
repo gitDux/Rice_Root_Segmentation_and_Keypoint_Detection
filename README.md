@@ -1,7 +1,7 @@
 # Rice-Root-Segmentation-and-Keypoint-Detection
 This repository provides implementation with training/testing codes of various Rice-Root-Segmentation-and-Keypoint-Detection in Keras. 
 
-Authors : Liang Gong<sup>[1]</sup>, Xiaofeng Du<sup>[1]</sup>, Kai Zhu<sup>[1]</sup>.
+Authors : Kai Zhu<sup>[1]</sup>, Xiaofeng Du<sup>[1]</sup>.
 
 [Shanghai Jiao Tong University](www.sjtu.edu.cn/)<sup>[1]</sup>.
 
