@@ -32,7 +32,7 @@ If you found our work useful and used in your research, please cite the paper:
     
     @inproceedings{hu2018senet,
       title={Rice-Root-Segmentation-and-Keypoint-Detection},
-      author={KaiZhu},
+      author={Liang Gong, Xiaofeng Du, Kai Zhu},
       journal={unspecified},
-      year={2019}
+      year={2020}
     }
